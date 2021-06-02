@@ -12,7 +12,7 @@
 <body>
    <section class="wrapper">
     <header>
-      <h1 class="logo"><a href="index.php">Come caca gitX2</a></h1>
+      <h1 class="logo"><a href="index.php">Come caca gitX6</a></h1>
       <nav>
       <ul>
         <li><a href="index.php" class="current">Inicio</a></li>
