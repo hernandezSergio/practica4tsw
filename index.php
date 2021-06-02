@@ -2,7 +2,7 @@
 <html lang="es-mx">
 <head>
     <meta charset="UTF-8">
-    <title>Una de las peores materuas que he tenido en toda mi carrera</title>
+    <title>Una de las peores materuas que he tenido en toda mi carreraX2</title>
     <link rel="stylesheet" href="css/estilos.css"/>
     <link rel="stylesheet" href="css/menu.css"/>
     <link rel="stylesheet" href="css/problema.css"/>
